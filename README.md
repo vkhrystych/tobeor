@@ -5,7 +5,7 @@ Hey! That's my first open-source package, so don't blame on me 😏
 #### Philosophy
 
 To be or not to be?
-It's very annoying to write OR statements in JS with a lot of variants like this:
+It's very annoying to write OR, value-based statements in JS with a lot of variants like this:
 
 ```
 const a = 'foo';
@@ -27,6 +27,19 @@ Package pretty simple - it's just one line of code, that use .includes() method 
 If you use NPM: `npm i tobeor`
 
 If you use Yarn: `yarn add tobeor`
+
+#### Usage
+
+Just import the package, and use it like a func:
+
+```
+import tobeor from 'tobeor';
+
+const foo = 'a';
+
+if (tobeor(foo, ['a', 'b', 'c']));
+// This code will return "true"
+```
 
 #### Questions
 

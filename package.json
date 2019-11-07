@@ -1,7 +1,7 @@
 {
   "name": "tobeor",
-  "version": "0.1.5",
-  "description": "Simple wrapper for annoying 'or' statements",
+  "version": "0.1.6",
+  "description": "Simple wrapper for annoying 'or', value-based statements",
   "license": "MIT",
   "repository": "vladyslavkhrystych/tobeor",
   "main": "index.js",

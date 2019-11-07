@@ -1,1 +1,3 @@
-export default (value, valuesArr) => valuesArr.includes(value);
+module.exports = function(e, n) {
+  return n.includes(e);
+};
