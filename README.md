@@ -1,6 +1,4 @@
-# tobeor
-
-## Simple wrapper for annoying OR statements
+# tobeor - simple wrapper for annoying OR statements
 
 Hey! That's my first open-source package, so don't blame on me 😏
 
