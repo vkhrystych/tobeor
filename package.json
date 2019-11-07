@@ -1,11 +1,13 @@
 {
   "name": "tobeor",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Simple wrapper for annoying 'or' statements",
   "license": "MIT",
   "repository": "vladyslavkhrystych/tobeor",
   "main": "index.js",
   "keywords": [
+    "js",
+    "javascript",
     "statement",
     "or statement"
   ]

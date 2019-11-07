@@ -1,3 +1,1 @@
-export default function(variable, keysArr) {
-  return keysArr.includes(variable);
-}
+export default (value, valuesArr) => valuesArr.includes(value);
