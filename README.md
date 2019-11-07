@@ -1,6 +1,6 @@
 # tobeor
 
-### Simple wrapper for annoying if statements
+## Simple wrapper for annoying OR statements
 
 Hey! That's my first open-source package, so don't blame on me 😏
 
@@ -15,7 +15,7 @@ const a = 'foo';
 if (a === 'foo' || a === 'buz' || a === 'foobuz') {}
 ```
 
-Instead of this I did this small package, where you can pass variable and array with value variants:
+Instead of this I have made this small package, where you can pass variable and array with value variants:
 
 ```
 if (tobeor(a, ['foo', 'buz', 'foobuz'])) {}
@@ -30,6 +30,6 @@ If you use NPM: `npm i tobeor`
 
 If you use Yarn: `yarn add tobeor`
 
-### Questions
+#### Questions
 
 If you have questions or propositions - write me on email: `vladyslavkhrystych@gmail.com`

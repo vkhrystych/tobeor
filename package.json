@@ -1,6 +1,6 @@
 {
   "name": "tobeor",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Simple wrapper for annoying 'or' statements",
   "license": "MIT",
   "repository": "vladyslavkhrystych/tobeor",
