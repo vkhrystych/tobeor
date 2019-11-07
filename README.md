@@ -2,8 +2,6 @@
 
 ### Simple wrapper for annoying if statements
 
-https://img.shields.io/packagecontrol/dm/tobeor
-
 Hey! That's my first open-source package, so don't blame on me 😏
 
 #### Philosophy
