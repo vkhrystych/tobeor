@@ -19,8 +19,8 @@ Instead of this I have made this small package, where you can pass variable and 
 if (tobeor(a, ['foo', 'buz', 'foobuz'])) {}
 ```
 
-Function just returns true or false and that's it.
-Package pretty simple - it's just one line of code, that use .includes() method to check truthfulness of statement.
+Function simply returns true or false and that's it.
+Package pretty simple - it's just one line of code, that uses .includes() method to check truthfulness of statement.
 
 #### How to install
 
